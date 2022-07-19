@@ -1,0 +1,39 @@
+.box {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  padding: 30px;
+  width: 150px;
+  background-color: rgb(83, 80, 80);
+
+}
+
+.result, .result1, .result2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 52px;
+  border: 1px solid black;
+  border-radius: 50px;
+  background-color: rgb(142, 145, 145);
+}
+
+.open {
+  background-color: red;
+}
+
+.open1 {
+  background-color: yellow;
+}
+
+.open2 {
+  background-color: green;
+}
